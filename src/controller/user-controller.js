@@ -11,4 +11,7 @@ const calculaIdade = (req, res) => {
     })
 }
 
-module.exports = {calculaIdade}
+
+module.exports = {
+    calculaIdade
+}
